@@ -2,6 +2,7 @@
 
 import argparse
 import json
+import os
 import re
 import time
 
@@ -19,7 +20,7 @@ from lib import demail
 DEBUG = False
 LAST_DAY = False
 
-USER_CONF_PATH = "user.ini"
+USER_CONF_PATH = "%s/.AutoScriptConfig/tower-team-reporter/user.ini" % os.getenv("HOME")
 CONTACT_CONF_PATH = "team.json"
 
 TEMPLATE = """

@@ -1,8 +1,10 @@
-
+import os
 import smtplib
 from configparser import ConfigParser
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+
+EMAIL_CONF_PATH = "%s/.AutoScriptConfig/tower-team-reporter/email.ini" % os.getenv("HOME")
 
 class Email:
     def __smtp(self, server, username, passwd):
@@ -18,7 +20,7 @@ class Email:
 
     def get_user_info(self):
         config = ConfigParser()
-        config.read("lib/email.ini")
+        config.read(EMAIL_CONF_PATH)
         server = config["USER"]["SMTPServer"]
         username = config["USER"]["UserName"]
         passwd = config["USER"]["UserPWD"]
