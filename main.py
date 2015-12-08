@@ -30,17 +30,6 @@ TEMPLATE = """
 <p>若本组成员信息有误，请使用“回复全部”，说明情况。</p>
 """
 
-TEST_TEMPLATE = """
-<p>
-================= 华丽丽的分割线 =============== <br>
-1、本邮件为测试邮件，收到邮件后请进入下方的tower链接核对收件信息，<br>
-确认没问题后回复我<a href="mailto:tangcaijun@linuxdeepin.com">tangcaijun@linuxdeepin.com</a>，避免错发漏发 <br>
-2、以后每个月的最后一天会发送此邮件到你的信箱（不包括分割线内容）<br>
-3、就差最后一步了，谢谢各位配合 <br>
-tower链接： <a href="https://tower.im/projects/46b5eaac586d432982dec65ea282541d/todos/c689b343fb1f461bab377e9d346cea2e/#60a273c47e2a4e549b88b0791078f901">团队分组机器人</a> <br>
-================= 华丽丽的分割线 =============== <br>
-<p>
-"""
 
 class Browser_Controller:
 
