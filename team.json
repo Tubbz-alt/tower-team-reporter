@@ -1,20 +1,7 @@
 {
     "common_recipients": [],
-    "common_cc": ["wangdi@linuxdeepin.com", "wangzhiling@linuxdeepin.com", "tangcaijun@linuxdeepin.com"],
+    "common_cc": ["wangdi@linuxdeepin.com", "huangliang@linuxdeepin.com", "tangcaijun@linuxdeepin.com"],
     "teams": [
-        {
-            "name": "工程团队",
-            "guid": "82eea68b31c247cb95475a3de634bf7b",
-            "recipients": ["zhangmuliang@linuxdeepin.com"],
-            "cc": []
-        },
-        {
-            "name": "培训团队",
-            "guid": "aab0fb408ae249d19e05f2165638c2c9",
-            "recipients": ["tuowenjian@linuxdeepin.com"],
-            "cc": []
-
-        },
         {
             "name": "市场团队",
             "guid": "7601f4cfe993479299f757684c9e69da",
@@ -23,9 +10,22 @@
 
         },
         {
+            "name": "工程团队",
+            "guid": "82eea68b31c247cb95475a3de634bf7b",
+            "recipients": ["zhangmuliang@linuxdeepin.com"],
+            "cc": []
+        },
+        {
             "name": "项目团队",
             "guid": "5fb5997c974c4e248cf1e0a4964ee738",
             "recipients": ["zhanxue@linuxdeepin.com"],
+            "cc": []
+
+        },
+        {
+            "name": "培训团队",
+            "guid": "aab0fb408ae249d19e05f2165638c2c9",
+            "recipients": ["tuowenjian@linuxdeepin.com"],
             "cc": []
 
         },
@@ -51,15 +51,34 @@
 
         },
         {
-            "name": "wine 开发组",
-            "guid": "567a3528a819487bb2638b742c1e17a4",
+            "name": "国产平台开发组",
+            "guid": "c033be4774b041b49e66af8cb9dad9ef",
             "recipients": ["yekaisheng@linuxdeepin.com"],
             "cc": []
 
         },
         {
-            "name": "嵌入式开发组",
-            "guid": "c033be4774b041b49e66af8cb9dad9ef",
+            "name": "技术原型研究组",
+            "guid": "fba231845e18416e95d161e8a986ba1d",
+            "recipients": ["wangyong@linuxdeepin.com"],
+            "cc": []
+
+        },
+        {
+            "name": "深度应用开发组",
+            "guid": "23e54f6cf7b64103b16cbf67797942f4",
+            "recipients": ["yekaisheng@linuxdeepin.com"],
+            "cc": []
+        },
+        {
+            "name": "文件管理器开发组",
+            "guid": "a2c08462144041b2986499856aaad03c",
+            "recipients": ["yekaisheng@linuxdeepin.com"],
+            "cc": []
+        },
+        {
+            "name": "系统开发组",
+            "guid": "11133d3f1bc7441caf790fae5397deb0",
             "recipients": ["yekaisheng@linuxdeepin.com"],
             "cc": []
 
@@ -72,14 +91,7 @@
 
         },
         {
-            "name": "系统开发组",
-            "guid": "8c955a6cef514ee3a10835f70127b8db",
-            "recipients": ["yekaisheng@linuxdeepin.com"],
-            "cc": []
-
-        },
-        {
-            "name": "桌面/应用开发组",
+            "name": "桌面操作系统开发组",
             "guid": "52abf6da929b4f458c7a4042a3625dfe",
             "recipients": ["yekaisheng@linuxdeepin.com"],
             "cc": []
@@ -91,12 +103,6 @@
             "recipients": ["wangyong@linuxdeepin.com"],
             "cc": []
 
-        },
-        {
-            "name": "开源社区团队",
-            "guid": "40dd7627ea7b4a98ba19772010a5b699",
-            "recipients": ["wangyong@linuxdeepin.com"],
-            "cc": []
         },
         {
             "name": "后勤团队",
