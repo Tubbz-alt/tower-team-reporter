@@ -3,6 +3,13 @@
     "common_cc": ["wangdi@linuxdeepin.com", "huangliang@linuxdeepin.com", "tangcaijun@linuxdeepin.com"],
     "teams": [
         {
+            "name": "武汉行政部",
+            "guid": "6c204843bc6743a991fce38503cf2f2a",
+            "recipients": ["zhanxue@linuxdeepin.com"],
+            "cc": []
+
+        },
+        {
             "name": "市场团队",
             "guid": "7601f4cfe993479299f757684c9e69da",
             "recipients": ["xuke@linuxdeepin.com"],
