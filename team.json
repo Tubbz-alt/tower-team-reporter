@@ -1,127 +1,127 @@
 {
     "common_recipients": [],
-    "common_cc": ["wangdi@linuxdeepin.com", "fengxi@linuxdeepin.com", "tangcaijun@linuxdeepin.com"],
+    "common_cc": ["wangdi@deepin.com", "fengxi@deepin.com", "tangcaijun@deepin.com"],
     "teams": [
         {
             "name": "武汉行政部",
             "guid": "6c204843bc6743a991fce38503cf2f2a",
-            "recipients": ["zhanxue@linuxdeepin.com"],
+            "recipients": ["zhanxue@deepin.com"],
             "cc": []
 
         },
         {
             "name": "市场团队",
             "guid": "7601f4cfe993479299f757684c9e69da",
-            "recipients": ["xuke@linuxdeepin.com"],
+            "recipients": ["xuke@deepin.com"],
             "cc": []
 
         },
         {
             "name": "工程团队",
             "guid": "82eea68b31c247cb95475a3de634bf7b",
-            "recipients": ["zhangmuliang@linuxdeepin.com"],
+            "recipients": ["zhangmuliang@deepin.com"],
             "cc": []
         },
         {
             "name": "项目团队",
             "guid": "5fb5997c974c4e248cf1e0a4964ee738",
-            "recipients": ["zhanxue@linuxdeepin.com"],
+            "recipients": ["zhanxue@deepin.com"],
             "cc": []
 
         },
         {
             "name": "培训团队",
             "guid": "aab0fb408ae249d19e05f2165638c2c9",
-            "recipients": ["tuowenjian@linuxdeepin.com"],
+            "recipients": ["tuowenjian@deepin.com"],
             "cc": []
 
         },
         {
             "name": "设计团队",
             "guid": "fa50d805aaaf431a8dc8673aee2967f8",
-            "recipients": ["linan@linuxdeepin.com"],
+            "recipients": ["linan@deepin.com"],
             "cc": []
 
         },
         {
             "name": "测试团队",
             "guid": "b05bd2970db3461a8062a5dedf86bf93",
-            "recipients": ["yujingmei@linuxdeepin.com"],
+            "recipients": ["yujingmei@deepin.com"],
             "cc": []
 
         },
         {
             "name": "产品团队",
             "guid": "be798f8e2c124f8199e3e6d1379ead7a",
-            "recipients": ["wangyong@linuxdeepin.com"],
+            "recipients": ["wangyong@deepin.com"],
             "cc": []
 
         },
         {
             "name": "国产平台开发组",
             "guid": "c033be4774b041b49e66af8cb9dad9ef",
-            "recipients": ["yekaisheng@linuxdeepin.com"],
+            "recipients": ["wangyong@deepin.com"],
             "cc": []
 
         },
         {
             "name": "技术原型研究组",
             "guid": "fba231845e18416e95d161e8a986ba1d",
-            "recipients": ["wangyong@linuxdeepin.com"],
+            "recipients": ["wangyong@deepin.com"],
             "cc": []
 
         },
         {
             "name": "深度应用开发组",
             "guid": "23e54f6cf7b64103b16cbf67797942f4",
-            "recipients": ["yekaisheng@linuxdeepin.com"],
+            "recipients": ["wangyong@deepin.com"],
             "cc": []
         },
         {
             "name": "文件管理器开发组",
             "guid": "a2c08462144041b2986499856aaad03c",
-            "recipients": ["yekaisheng@linuxdeepin.com"],
+            "recipients": ["wangyong@deepin.com"],
             "cc": []
         },
         {
             "name": "系统开发组",
             "guid": "11133d3f1bc7441caf790fae5397deb0",
-            "recipients": ["yekaisheng@linuxdeepin.com"],
+            "recipients": ["wangyong@deepin.com"],
             "cc": []
 
         },
         {
             "name": "网站开发组",
             "guid": "814b8b4362064fe58493532da5aa17f1",
-            "recipients": ["yekaisheng@linuxdeepin.com"],
+            "recipients": ["wangyong@deepin.com"],
             "cc": []
 
         },
         {
             "name": "桌面操作系统开发组",
             "guid": "52abf6da929b4f458c7a4042a3625dfe",
-            "recipients": ["yekaisheng@linuxdeepin.com"],
+            "recipients": ["wangyong@deepin.com"],
             "cc": []
 
         },
         {
             "name": "IT 运维组",
             "guid": "c1a8fbca5ead44b5bf2215f182a2f9d6",
-            "recipients": ["wangyong@linuxdeepin.com"],
+            "recipients": ["wangyong@deepin.com"],
             "cc": []
 
         },
         {
             "name": "后勤团队",
             "guid": "04ac6e3aa1084d588c4bc5cf26601808",
-            "recipients": ["wangdi@linuxdeepin.com"],
+            "recipients": ["wangdi@deepin.com"],
             "cc": []
 
         },
         {
             "name": "销售团队",
             "guid": "a1a619deef9e47d98fa38e4599637078",
-            "recipients": ["liuwenhuan@linuxdeepin.com"],
+            "recipients": ["liuwenhuan@deepin.com"],
             "cc": []
         }
     ]
