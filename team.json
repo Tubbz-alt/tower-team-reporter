@@ -3,18 +3,10 @@
     "common_cc": ["wangdi@deepin.com", "fengxi@deepin.com", "tangcaijun@deepin.com"],
     "teams": [
         {
-            "name": "武汉行政部",
-            "guid": "6c204843bc6743a991fce38503cf2f2a",
-            "recipients": ["zhanxue@deepin.com"],
-            "cc": []
-
-        },
-        {
             "name": "市场团队",
             "guid": "7601f4cfe993479299f757684c9e69da",
             "recipients": ["xuke@deepin.com"],
             "cc": []
-
         },
         {
             "name": "工程团队",
@@ -27,52 +19,51 @@
             "guid": "5fb5997c974c4e248cf1e0a4964ee738",
             "recipients": ["zhanxue@deepin.com"],
             "cc": []
-
-        },
-        {
-            "name": "培训团队",
-            "guid": "aab0fb408ae249d19e05f2165638c2c9",
-            "recipients": ["tuowenjian@deepin.com"],
-            "cc": []
-
         },
         {
             "name": "设计团队",
             "guid": "fa50d805aaaf431a8dc8673aee2967f8",
             "recipients": ["linan@deepin.com"],
             "cc": []
-
+        },
+        {
+            "name": "网站开发组",
+            "guid": "814b8b4362064fe58493532da5aa17f1",
+            "recipients": ["wangyong@deepin.com"],
+            "cc": []
         },
         {
             "name": "测试团队",
             "guid": "b05bd2970db3461a8062a5dedf86bf93",
             "recipients": ["yujingmei@deepin.com"],
             "cc": []
-
         },
         {
             "name": "产品团队",
             "guid": "be798f8e2c124f8199e3e6d1379ead7a",
             "recipients": ["wangyong@deepin.com"],
             "cc": []
-
         },
         {
-            "name": "国产平台开发组",
+            "name": "申威开发组",
             "guid": "c033be4774b041b49e66af8cb9dad9ef",
             "recipients": ["wangyong@deepin.com"],
             "cc": []
-
+        },
+        {
+            "name": "龙芯开发组",
+            "guid": "32db8790e8be469c8c2bd853dc5f1246",
+            "recipients": ["wangyong@deepin.com"],
+            "cc": []
         },
         {
             "name": "技术原型研究组",
             "guid": "fba231845e18416e95d161e8a986ba1d",
             "recipients": ["wangyong@deepin.com"],
             "cc": []
-
         },
         {
-            "name": "深度应用开发组",
+            "name": "安装器开发组",
             "guid": "23e54f6cf7b64103b16cbf67797942f4",
             "recipients": ["wangyong@deepin.com"],
             "cc": []
@@ -84,15 +75,14 @@
             "cc": []
         },
         {
-            "name": "系统开发组",
-            "guid": "11133d3f1bc7441caf790fae5397deb0",
+            "name": "图片浏览器开发组",
+            "guid": "761a9693b4f44fcebcde35d1656ad906",
             "recipients": ["wangyong@deepin.com"],
             "cc": []
-
         },
         {
-            "name": "网站开发组",
-            "guid": "814b8b4362064fe58493532da5aa17f1",
+            "name": "系统平台构建与维护组",
+            "guid": "11133d3f1bc7441caf790fae5397deb0",
             "recipients": ["wangyong@deepin.com"],
             "cc": []
 
@@ -107,7 +97,14 @@
         {
             "name": "IT 运维组",
             "guid": "c1a8fbca5ead44b5bf2215f182a2f9d6",
-            "recipients": ["wangyong@deepin.com"],
+            "recipients": ["zhanglei@deepin.com"],
+            "cc": []
+
+        },
+        {
+            "name": "武汉行政部",
+            "guid": "6c204843bc6743a991fce38503cf2f2a",
+            "recipients": ["zhanxue@deepin.com"],
             "cc": []
 
         },
